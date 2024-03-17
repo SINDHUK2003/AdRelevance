@@ -1,7 +1,8 @@
 # AdRelevance
 
 **Description:**
-AdRelevance is a user-centric ad recommendation system designed to enhance ad recommendations based on historical user data. It optimizes ad suggestions by intelligently utilizing a cache system to improve real-time ad retrieval.
+- AdRelevance is a user-centric ad recommendation system designed to enhance ad recommendations based on historical user data.
+- It optimizes ad suggestions by intelligently utilizing a cache system to improve real-time ad retrieval.
 
 **Key Features:**
 - Utilizes historical user data for ad recommendation.
